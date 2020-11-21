@@ -1,7 +1,6 @@
-# Sensor Fusion ND, Udacity. 
+# Udacity Sensor Fusion Nanodegree 
 
-# Course Notes 
-
+## Course Notes 
 https://www.notion.so/Sensor-Fusion-Nano-degree-ec8f58bb4d24439fa5c1b912719ddda2
 
 # Projects
@@ -26,6 +25,4 @@ https://www.notion.so/Sensor-Fusion-Nano-degree-ec8f58bb4d24439fa5c1b912719ddda2
 
 ![Unscented_Kalman_Filter](https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/4-%20Unscented%20Kalman%20Filter/media/ukf_highway_tracked.gif)
 
-# Certificate:
 
-![Certificate] (https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/Certificate.pdf)
