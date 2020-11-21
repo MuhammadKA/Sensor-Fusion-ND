@@ -1,9 +1,9 @@
 ---
 DC.date: "2020-11-09"
 DC.source: 'radar\_target\_generation\_and\_detection.m'
-generator: "MATLAB R2020b"
-title: 'radar\_target\_generation\_and\_detection'
-author: Muhammad Khaled
+Generator: "MATLAB R2020b"
+Title: 'radar\_target\_generation\_and\_detection'
+Author: Muhammad Khaled
 ---
 
 
