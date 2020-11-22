@@ -1,6 +1,6 @@
 # Sensor Fusion Self-Driving Car Course
 
-<img src="https://github.com/MuhammadKA/SensorFusionNanoDegree/blob/master/1.%20Lidar%20Obstacle%20Detection/ObstacleDetectionFPS.gif" width="700" height="400" />
+<img src="https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/1-%20Lidar%20Obstacle%20Detection/ObstacleDetectionFPS.gif" width="700" height="400" />
 
 ### Welcome to the Sensor Fusion course for self-driving cars.
 
