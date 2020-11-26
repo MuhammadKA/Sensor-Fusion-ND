@@ -313,7 +313,7 @@ xlabel('Velocity');
 ylabel('Range');
 zlabel('Amplitude');
 ```
-<img src="https://github.com/MuhammadKA/SensorFusionNanoDegree/blob/master/Radar_Target_Generation_and_Detection/1D_FFT_Output.png" width="400" height="400" />
-<img src="https://github.com/MuhammadKA/SensorFusionNanoDegree/blob/master/Radar_Target_Generation_and_Detection/2D_FFT_Output.png" width="400" height="400" />
-<img src="https://github.com/MuhammadKA/SensorFusionNanoDegree/blob/master/Radar_Target_Generation_and_Detection/CA_CFAR_Filtered_RDM_surface_plot.png" width="400" height="400" />
+<img src="https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/3-%20Radar:%20Target%20Generation%20and%20Detection/1D_FFT_Output.png" width="400" height="400" />
+<img src="https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/3-%20Radar:%20Target%20Generation%20and%20Detection/2D_FFT_Output.png" width="400" height="400" />
+<img src="https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/3-%20Radar:%20Target%20Generation%20and%20Detection/CA_CFAR_Filtered_RDM_surface_plot.png" width="400" height="400" />
 </div>
