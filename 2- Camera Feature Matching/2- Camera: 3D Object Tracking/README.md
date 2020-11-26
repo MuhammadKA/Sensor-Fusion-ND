@@ -2,7 +2,7 @@
 
 Welcome to the final project of the camera course. By completing all the lessons, you now have a solid understanding of keypoint detectors, descriptors, and methods to match them between successive images. Also, you know how to detect objects in an image using the YOLO deep-learning framework. And finally, you know how to associate regions in a camera image with Lidar points in 3D space. Let's take a look at our program schematic to see what we already have accomplished and what's still missing.
 
-<img src="images/course_code_structure.png" width="779" height="414" />
+<img src="https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/2-%20Camera%20Feature%20Matching/2-%20Camera:%203D%20Object%20Tracking/course_code_structure.png" width="779" height="414" />
 
 In this final project, you will implement the missing parts in the schematic. To do this, you will complete four major tasks: 
 1. First, you will develop a way to match 3D objects over time by using keypoint correspondences. 
