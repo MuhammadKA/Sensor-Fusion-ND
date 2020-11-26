@@ -19,13 +19,10 @@ In this course we will be talking about sensor fusion, whch is the process of ta
 
 ![Lidar Clustering](https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/1-%20Lidar%20Obstacle%20Detection/ObstacleDetectionFPS.gif)
 
-## 2D Feature Tracking
+## Feature Tracking
 
-![2D Feature Tracking](https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/2-%20Camera:%202D%20Feature%20Matching/images/keypoints.png)
+![2D Feature Tracking](https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/2-%20Camera%20Feature%20Matching/2-%20Camera:%203D%20Object%20Tracking/course_code_structure.png)
 
-## 3D Object Tracking
-
-![3D Object Tracking](https://github.com/MuhammadKA/Sensor-Fusion-ND/blob/master/2-%20Camera:%203D%20Object%20Tracking/course_code_structure.png)
 
 ## RADAR Target Generation and Detection
 
